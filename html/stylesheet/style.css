@@ -1,0 +1,40 @@
+header {
+    postion: absolute;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #b7b7b7;
+}
+
+section {
+    background: white;
+    border: 1px solid #444444;
+    margin: 10px;
+    padding:20px;
+}
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #b7b7b7;
+}
+
+.parents {
+    background: #b4b4b4;
+    width: 260px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.children {
+    width: 200px;
+    height: 200px;
+    background-color: #ff9933;
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 200px;
+    text-align: center;
+    margin: 30px;
+
+}
+#test {
+    font-size: 200px;
+}
