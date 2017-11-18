@@ -4,6 +4,7 @@
 
 
 document.querySelector('#test').addEventListener('click', function () {
-//    "use strict";
-    console.log('dd');
+  //    "use strict";
+  console.log('dddd');
+  console.log('dddd');
 });
